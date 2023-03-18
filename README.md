@@ -8,6 +8,16 @@ krc、ksc、lrc歌词制作工具，本工具完全免费，可以制作酷狗kr
 
 #### 版本更新
 
+##### 1.0.2.0
+
+1.  new: \*.lrc ESLyric精准歌词支持(适用于foobar2000插件ESLyric 0.3.x版本)
+2.  new: \*.lrc ESLyric精准歌词支持(适用于foobar2000插件ESLyric 0.5.x版本)
+3.  new: \*.ass字幕格式支持(含卡拉OK效果，如需更改样式，请导入到Aegisub中自行更改)
+4.  new: \*.smi字幕格式支持(Windows Media Player字幕)
+5.  new: \*.psb字幕格式支持(PowerDivX字幕)
+6.  new: 首次使用提示安装LAVFilters解码器
+7.  mod: 配置重命名(请使用新配置，以前配置可对照手动迁移)
+
 ##### 1.0.1.1
 
 1.  fix: 个性化字号改变后，翻译字体无法生效的问题
