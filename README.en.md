@@ -8,6 +8,11 @@ krc, ksc, lrc lyrics maker, This tool is completely free and can make Kugou KRC 
 
 #### Changelog
 
+##### 1.0.3.0
+
+1.  new: The command line function supports, you can use the command line to convert the format, enter "klm.exe -help" to view the usage
+2.  new: The output file preserves the folder hierarchy of the input
+
 ##### 1.0.2.1
 
 1.  new: The song supports playback rate set (0.5~1.5), you can use the default Z key to switch between normal and set rate
