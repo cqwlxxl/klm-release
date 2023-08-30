@@ -8,6 +8,11 @@ krc, ksc, lrc lyrics maker, This tool is completely free and can make Kugou KRC 
 
 #### Changelog
 
+##### 1.0.3.1
+
+1.  new: Mutual conversion format function. \*.krc \*.ksc \*.lrc (standard lrc/precision ESLyric 0.3.x lrc/precision ESLyric 0.5.x lrc) is supported as the source format for conversion
+2.  mod: Adjust the command line to support mutual conversion format. Enter "klm.exe -help" to see how to use it
+
 ##### 1.0.3.0
 
 1.  new: The command line function supports, you can use the command line to convert the format, enter "klm.exe -help" to view the usage
