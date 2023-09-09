@@ -8,6 +8,11 @@ krc, ksc, lrc lyrics maker, This tool is completely free and can make Kugou KRC 
 
 #### Changelog
 
+##### 1.0.3.2
+
+1.  fix: Once the production is complete, the lyrics or subtitles cannot be saved
+2.  fix: Conversion function, KRC save location cannot be cleared
+
 ##### 1.0.3.1
 
 1.  new: Mutual conversion format function. \*.krc \*.ksc \*.lrc (standard lrc/precision ESLyric 0.3.x lrc/precision ESLyric 0.5.x lrc) is supported as the source format for conversion
