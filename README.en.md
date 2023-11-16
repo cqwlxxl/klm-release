@@ -8,6 +8,15 @@ krc, ksc, lrc lyrics maker, This tool is completely free and can make Kugou KRC 
 
 #### Changelog
 
+##### 1.0.3.3
+
+1.  fix: When the lyrics are completed, add a new line at the end and right-click to create this section, the software will crash. Correction: When the lyrics are completed, adding a new line at the end, clearing the production status of the last line, modifying the last line lyrics and changing the word count, these will automatically switch to the unfinished state. Continue to complete the production according to the normal process. Additional note: interval creation is only effective when there are no already created lyrics after this interval. Otherwise, it will be recognized as incomplete lyrics creation, not interval creation
+2.  new: Show production area focus
+3.  mod(optimize): After clicking to add a new line, automatically switch the focus to the text entry box
+4.  mod(optimize): After deleting the lyrics line, keep the scroll bar position unchanged
+5.  mod(optimize): After dragging into KRC to restore production status, automatically scroll to the last line of lyrics
+6.  mod(optimize): After adding new or modifying rows, automatically switch the focus to the edit area
+
 ##### 1.0.3.2
 
 1.  fix: Once the production is complete, the lyrics or subtitles cannot be saved
