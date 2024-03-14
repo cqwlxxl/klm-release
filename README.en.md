@@ -8,6 +8,10 @@ krc, ksc, lrc lyrics maker, This tool is completely free and can make Kugou KRC 
 
 #### Changelog
 
+##### 1.0.3.4
+
+1.  new: Added bracket mode to the lyrics text (type pairs of matching brackets in the lyrics text, and the text in the brackets will be processed into a single word, that is, the text in the brackets will be equivalent to a Chinese character or a word in the past)
+
 ##### 1.0.3.3
 
 1.  fix: When the lyrics are completed, add a new line at the end and right-click to create this section, the software will crash. Correction: When the lyrics are completed, adding a new line at the end, clearing the production status of the last line, modifying the last line lyrics and changing the word count, these will automatically switch to the unfinished state. Continue to complete the production according to the normal process. Additional note: interval creation is only effective when there are no already created lyrics after this interval. Otherwise, it will be recognized as incomplete lyrics creation, not interval creation
