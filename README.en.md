@@ -8,6 +8,11 @@ krc, ksc, lrc lyrics maker, This tool is completely free and can make Kugou KRC 
 
 #### Changelog
 
+##### 1.0.3.5
+
+1.  fix: Fix software crashes caused by encoding recognition errors and regular matching errors in lrc types (fixed regular expression for matching foobar ESLyric 0.3.x)
+2.  mod(optimize): Add text encoding recognition function (currently ANSI cannot recognize it properly, it is now treated as UTF-8)
+
 ##### 1.0.3.4
 
 1.  new: Added bracket mode to the lyrics text (type pairs of matching brackets in the lyrics text, and the text in the brackets will be processed into a single word, that is, the text in the brackets will be equivalent to a Chinese character or a word in the past)
