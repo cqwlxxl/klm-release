@@ -8,6 +8,11 @@ krc, ksc, lrc lyrics maker, This tool is completely free and can make Kugou KRC 
 
 #### Changelog
 
+##### 1.0.3.8
+
+1.  fix: Fix software crashes caused by incorrect LRC, add judgment on incorrect LRC, which can be seen in the output information
+2.  new: Respond to UI during the conversion process to avoid interface fake death
+
 ##### 1.0.3.7
 
 1.  fix: fixed regular expression for matching foobar ESLyric 0.3.x
