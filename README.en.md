@@ -8,6 +8,11 @@ krc, ksc, lrc lyrics maker, This tool is completely free and can make Kugou KRC 
 
 #### Changelog
 
+##### 1.0.3.9
+
+1.  fix: Fix the timestamp conversion error when the duration of a standard LRC file exceeds 60 minutes
+2.  mod: Preserve the offset tag in the conversion of LRC (foobar ESLyric 0.3.x, foobar ESLyric 0.5.x) and KRC formats
+
 ##### 1.0.3.8
 
 1.  fix: Fix software crashes caused by incorrect LRC, add judgment on incorrect LRC, which can be seen in the output information

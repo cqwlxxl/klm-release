@@ -8,6 +8,11 @@ krc、ksc、lrc歌詞製作工具，本工具完全免費，可以製作酷狗kr
 
 #### 版本更新
 
+##### 1.0.3.9
+
+1.  fix: 修復標準lrc時長超過60分鐘後的時間戳轉換錯誤
+2.  mod: 保留lrc(foobar ESLyric 0.3.x、foobar ESLyric 0.5.x)和krc轉換中的offset標籤
+
 ##### 1.0.3.8
 
 1.  fix: 修復不正確LRC引起的軟件崩潰，加入對不正確LRC的判斷，可以在輸出資訊中看到
